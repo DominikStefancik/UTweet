@@ -1,2 +1,3 @@
-# Uchat
-A social media app which is similar to Twitter/X fully developed in Rust
+# UTweet
+
+A social media app similar to Twitter/X where users can send short posts and others can react to them, fully developed in Rust.
